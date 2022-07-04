@@ -1,0 +1,6 @@
+[submodule "fei-protocol-core"]
+	path = fei-protocol-core
+	url = https://github.com/fei-protocol/fei-protocol-core.git
+[submodule "uniswap-v3"]
+	path = uniswap-v3
+	url = https://github.com/Uniswap/v3-core.git
