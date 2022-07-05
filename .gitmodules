@@ -4,3 +4,12 @@
 [submodule "uniswap-v3"]
 	path = uniswap-v3
 	url = https://github.com/Uniswap/v3-core.git
+[submodule "aave_flashloan-box"]
+	path = aave_flashloan-box
+	url = https://github.com/aave/flashloan-box.git
+[submodule "uniswap-v2"]
+	path = uniswap-v2
+	url = https://github.com/Uniswap/v2-core.git
+[submodule "uniswap-v2-periphery"]
+	path = uniswap-v2-periphery
+	url = https://github.com/Uniswap/v2-periphery.git
