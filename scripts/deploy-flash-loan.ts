@@ -17,7 +17,7 @@ async function main() {
     // Found these parameters by trial and error.
     let d = "207569000000000000000000"
     let b = "092430000000000000000000"
-    await flashloan.flashloan('0x71bE63f3384f5fb98995898A86B02Fb2426c5788');
+    await flashloan.flashloan(WETH.address);
     const balance1 = await WETH.balanceOf(flashloan.address);
     console.log("If the balance is positive the flashloan worked!");
     console.log("Balance after flashloan", balance1 / 1e18, "ETH");

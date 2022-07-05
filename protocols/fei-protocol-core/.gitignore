@@ -1,0 +1,15 @@
+.eslintcache
+.env
+node_modules
+*.DS_Store*
+.vscode/
+build/
+coverage.json
+coverage/
+tenderly.yaml
+artifacts
+cache
+types/contracts
+.eslintcache
+.xml
+out
